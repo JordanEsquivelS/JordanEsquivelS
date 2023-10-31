@@ -21,11 +21,60 @@ He desarrollado y desplegado con éxito aplicaciones web similares a una red soc
 <div align="center">
   
 ### ✅ Lenguajes de Programación: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)]()
-  
-### 🛠️ Herramientas y Tecnologías: 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,postman,vscode,express,git)]()
-  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50">
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50">
+      <br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50">
+      <br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="50" height="50">
+      <br>React
+    </td>
+  </tr>
+</table>
+
+### ✅ Herramientas y Tecnologías:
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50">
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50">
+      <br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="50" height="50">
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50">
+      <br>V S Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="50" height="50">
+      <br>Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50">
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+
 ### 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JordanEsquivelS&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanEsquivelS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
